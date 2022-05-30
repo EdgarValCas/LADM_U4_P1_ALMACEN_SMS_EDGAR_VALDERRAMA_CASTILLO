@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942922812757",
+    "project_id": "smspractica",
+    "storage_bucket": "smspractica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942922812757:android:2f519d1485d1604fc5f3dc",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u4_ejercicio1_smspermisos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942922812757-r7pjc3vc857qeae8fkv6dlh6m11emt1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEj-H0ejAnIzKBhnKvT0_hPEgCtF3bDpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942922812757-r7pjc3vc857qeae8fkv6dlh6m11emt1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
